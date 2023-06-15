@@ -217,7 +217,9 @@ trip_data_2023 %>%
 # 4) Due to electric bikes being the most popular among casual riders, Cyclistic could choose to
 #    provide a larger selection of electric bikes at the most popular station location, as well as
 #    a discount on using them.
-#    (The graph of the bike type distributions between member types is also shown on Tableau).
+
+
+#    Thank you for your time!
 
 
 
